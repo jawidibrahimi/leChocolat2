@@ -65,3 +65,10 @@ tr:hover {background-color:#dbb08db0!important}
     position: absolute;
     bottom: 0px;
 }
+.my-card
+{
+    position:absolute;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+}
